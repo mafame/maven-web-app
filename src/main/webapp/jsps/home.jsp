@@ -10,8 +10,8 @@
 </head>
 <body>
 <h1 align="center">Welcome to Landmark Technologies</h1>
-<h2 align="center"> supporting Ebay Black Friday project
-	An ideal online training  platform for DevOps and Cloud Engineers. 
+<h2 align="center"> We are supporting Ebay Black Friday Project.
+	Landmark is a software development company. 
 		Class26 starts on October 2, 2021.
 	The shout of the King is in our midst. JESUS is our savior.  HE IS OUR SUCCESS ACCESS KEY</h2>
 <hr>
