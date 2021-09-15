@@ -9,10 +9,10 @@
 </head>
 </head>
 <body>
-<h1 align="center">Landmark Technologies</h1>
-<h2 align="center"> Welcome to Landmark Technologies, 
+<h1 align="center">Welcome to Landmark Technologies</h1>
+<h2 align="center"> 
 	an ideal online training  platform for DevOps and Cloud Engineers. 
-	We also offer interview preparations and job assitance.
+	
 	Class26 starts on October 2, 2021.
 	The shout of the King is in our midst. JESUS is our savior.  HE IS OUR SUCCESS ACCESS KEY</h2>
 <hr>
